@@ -1,0 +1,49 @@
+#body {
+  background-color: #1d1e21 ;
+}
+#img {
+width: 40px;
+  }
+#img2 {
+  width: 36px;
+}
+#img3 {
+  width: 200px;
+}
+#p {
+  color: #AB030C;
+font-size: 27px;
+}
+#inp1{
+ height: 30px;
+  width: 200px;
+  border: none;
+border-radius: 78px;
+position: left;
+background-color: #d9d9d9;
+  }
+  #btn{
+height: 40px;
+  width: 140px;
+  border: none;
+border-radius: 78px;
+background-color: #AB030C;
+color:#d9d9d9;  
+}
+#dropdown{
+  color: #d9d9d9;
+border: none;
+background-color: #1d1e21;  
+}
+#dropdown2{
+  background-color: #d9d9d9;
+}
+#svg {
+  background-color: #1d1e21 ;
+}
+#p4{
+  color: #AB030C;
+}
+#a {
+  text-decoration: none;
+}
